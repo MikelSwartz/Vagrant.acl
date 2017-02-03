@@ -1,4 +1,4 @@
-# Vagrant Continious Integration with GitLab
+# Vagrant basic host to experiment with ACL
 Vagrant hosts to prototype and experiment with Access Control Lists
 
 Host Version Contents
